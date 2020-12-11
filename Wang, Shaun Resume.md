@@ -1,21 +1,34 @@
 # Shaun Wang
 Data Analyst, Art Historian
 
-## Contact
+## ✉️ Contact
 Phone: (347)530-5432
 <br>
 Email: sw3048@columbia.edu
 
-## About
+## 🙋🏻‍♂️ About
 Data Analyst and Art Historian with a passion for digital humanities through data collection and processes of knowledge dissemination. I am interested in approaches in domain knowledge organization, data processing, algorithmic recommendation systems and machine learning with a curiosity for AI.
 
-## Profiles
+## 🎭 Profiles
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 <br>
 
-## Education
+### 💡 Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br>
+
+## ⚙️ Education
 #### Second Master Degree
 * MS | Master in Data Science
 * Applying for second master degree
@@ -38,7 +51,7 @@ with Visual Arts,
 * Academics: Major GPA - 3.7/4.0;
 * Honors: Dean’s List (2016)
 
-## Certification/Leadership
+## 📜 Certification/Leadership
 #### Chartered Financial Analyst
 2021 | In-progress | CFA II
 
@@ -50,7 +63,7 @@ Grade Achieved: 98.00%
 #### Beta Theta Pi
 2018 | President | Alpha Alpha Chapter
 
-## Experience
+## 👨🏻‍💻 Experience
 #### Oxo Group | Analytics & Research Analyst 
 July 2020 - Present | New York, NY
 * Compiled 70+ slides of analytical research on state/city selection and best fit for overseas filing. With metrics focusing on, state-specific corporate income tax policies, overall tax burden ranking per state, effective total state & local tax rates on median state household, median home sales price for the state’s major city and its projected 10 year growth.
@@ -76,7 +89,7 @@ Jun 2019 - Aug 2019 | Beijing, China
 * Led team to compile 20+ project value-adds that has: 1. Diversified surrounding art / cultural ecology through FAR/Cap Rate balance with cultural project planning, 2. Allocated high-density FAR residential buildings.
 * Assisted corporate structure planning and restructured revenue model that synthesized internal operations, external sponsorships, and local government support. Won bid for project with $300 million in financing.
 
-## Publications/Projects
+## 📕 Publications/Projects
 
 #### DeepMBTI
 Project Lead | 2020 | URL: https://git.io/JIUGX
@@ -101,7 +114,7 @@ Author | 2015 - 2017 | Beijing, China
 * Spent 2.5 years investigating 40 non-profit contemporary private museums, art foundations, and art centers in China, interviewing 54 museum directors, and founders. The research compiled into a book over 450 pages in length. Obtained primary data and recorded interviews on issues of museum operations, collection legality, corporate structure, export/import artwork taxes, etc.
 * The project received ¥190,000 in combined sponsorships/grants from Asia Art Archive, New Century Art Foundation, SAIC, Chao Art Center, and Shanghai Glass Museum. Columbia Global Center organized symposium to reveal book. Book is featured in 5 major news organizations. (Artnet, Leap Magazine, Artron, Ifeng, Artyoo)
 
-## Relevant Coursework
+## 🤔 Relevant Coursework
 #### Java Programming and Software Engineering Fundamentals Specialization 
 * On Coursera by Duke University
 * Fall 2020
@@ -130,3 +143,7 @@ Author | 2015 - 2017 | Beijing, China
 #### Linear Algebra
 Columbia University (MATH2010)
 Spring 2021
+
+[linkedin]: https://www.linkedin.com/in/wang-shaun/
+[portfolio]: https://shaunwang1350.github.io/portfolio/
+[Github]: https://github.com/shaunwang1350/
