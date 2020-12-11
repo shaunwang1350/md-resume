@@ -4,8 +4,8 @@
 
 👋 Hi There, this repo includes all a markdown and PDF versions of my resume:
 
-Markdown: [Markdown](Resume.md)
-PDF: [PDF](Resume.pdf)
+[Markdown](Resume.md)
+[PDF](Resume.pdf)
 <br>
 
 Feel Free to connect with me:
