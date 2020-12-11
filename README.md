@@ -1,6 +1,8 @@
 # Resume Repo
- 👋 Hi There, this repo includes all a markdown and PDF versions of my resume:
  ![githubfollows](https://img.shields.io/github/followers/shaunwang1350?style=social)
+ <br>
+
+👋 Hi There, this repo includes all a markdown and PDF versions of my resume:
 
 Markdown: [Markdown](Resume.md)
 PDF: [PDF](Resume.pdf)
