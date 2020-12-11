@@ -1,8 +1,8 @@
 # md-resume
  👋 Hi There, this repo includes all a markdown and PDF versions of my resume:
 
-[Markdown](Wang, Shaun Resume.md)
-[PDF](Wang, Shaun Resume.pdf)
+Markdown: [Markdown](Resume.md)
+PDF: [PDF](Resume.pdf)
 <br>
 
 Feel Free to connect with me:
