@@ -10,9 +10,10 @@ Email: sw3048@columbia.edu
 Data Analyst and Art Historian with a passion for digital humanities through data collection and processes of knowledge dissemination. I am interested in approaches in domain knowledge organization, data processing, algorithmic recommendation systems and machine learning with a curiosity for AI.
 
 ## Profiles
-LinkedIn: https://www.linkedin.com/in/wang-shaun/
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 <br>
-Github: https://git.io/JIUyP
 
 ## Education
 #### Second Master Degree
@@ -48,36 +49,6 @@ Grade Achieved: 98.00%
 
 #### Beta Theta Pi
 2018 | President | Alpha Alpha Chapter
-
-## Relevant Coursework
-#### Java Programming and Software Engineering Fundamentals Specialization 
-* On Coursera by Duke University
-* Fall 2020
-
-#### Mathematics for ML Specialization
-* On Coursera by London Imperial College;
-* Spring 2020
-
-#### Linear Algebra, Multivariate Calculus, PCA
-* Data Science Math Skills
-* On Coursera by Duke University
-* Fall 2020
-
-#### Python Data Structures
-* On Coursera by University of Michigan
-* Fall 2020
-
-#### Algorithms Specialization
-* On Coursera by Stanford University;
-* Spring 2021
-
-#### Data Structures in Java
-* Columbia University (COMSW3134)
-* Spring 2021
-
-#### Linear Algebra
-Columbia University (MATH2010)
-Spring 2021
 
 ## Experience
 #### Oxo Group | Analytics & Research Analyst 
@@ -129,3 +100,33 @@ Independent Project | 2020 | URL: https://git.io/JIUZv
 Author | 2015 - 2017 | Beijing, China
 * Spent 2.5 years investigating 40 non-profit contemporary private museums, art foundations, and art centers in China, interviewing 54 museum directors, and founders. The research compiled into a book over 450 pages in length. Obtained primary data and recorded interviews on issues of museum operations, collection legality, corporate structure, export/import artwork taxes, etc.
 * The project received ¥190,000 in combined sponsorships/grants from Asia Art Archive, New Century Art Foundation, SAIC, Chao Art Center, and Shanghai Glass Museum. Columbia Global Center organized symposium to reveal book. Book is featured in 5 major news organizations. (Artnet, Leap Magazine, Artron, Ifeng, Artyoo)
+
+## Relevant Coursework
+#### Java Programming and Software Engineering Fundamentals Specialization 
+* On Coursera by Duke University
+* Fall 2020
+
+#### Mathematics for ML Specialization
+* On Coursera by London Imperial College;
+* Spring 2020
+
+#### Linear Algebra, Multivariate Calculus, PCA
+* Data Science Math Skills
+* On Coursera by Duke University
+* Fall 2020
+
+#### Python Data Structures
+* On Coursera by University of Michigan
+* Fall 2020
+
+#### Algorithms Specialization
+* On Coursera by Stanford University;
+* Spring 2021
+
+#### Data Structures in Java
+* Columbia University (COMSW3134)
+* Spring 2021
+
+#### Linear Algebra
+Columbia University (MATH2010)
+Spring 2021
