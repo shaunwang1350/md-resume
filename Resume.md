@@ -141,8 +141,8 @@ Author | 2015 - 2017 | Beijing, China
 * Spring 2021
 
 #### Linear Algebra
-Columbia University (MATH2010)
-Spring 2021
+* Columbia University (MATH2010)
+* Spring 2021
 
 [linkedin]: https://www.linkedin.com/in/wang-shaun/
 [portfolio]: https://shaunwang1350.github.io/portfolio/
